@@ -1,0 +1,4 @@
+env
+lucidBackend/lucidBackend/__pycache__
+lucidBackend/queries/__pycache__
+lucidBackend/queries/migrations
