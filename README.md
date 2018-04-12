@@ -6,6 +6,7 @@
 
 ### PostgreSQL (backend: Django REST Framework)
 
+#### MacOS
 + Clone the git project: `git clone https://github.com/phamcong/lucid-backend.git`
 + Move into project folder: `cd lucid-backend`
 + Make sure that [python 3](https://www.python.org/downloads/), [virtualenv](https://virtualenv.pypa.io/en/stable/installation/) are installed.
@@ -16,3 +17,7 @@
 + Migrate database: `python manage.py migrate`
 + Create super user: `python manage.py createsuperuser`
 + Run server at post 8080: `python manage.py runserver 8080`
+
+
+#### Windows
++ Download 
